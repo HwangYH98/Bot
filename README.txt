@@ -1,8 +1,6 @@
 수정해야 하는 항목입니다.
 
 main.py 
-line 14번 : 봇의 APPLICATION ID를 입력해 주세요. 1112327971802452049
-line 34번 : 봇의 TOKEN을 입력해 주세요. MTExMjMyNTIzMTM2NTg2OTYxMQ.Gcf9P-.kFsJ6AgGovKXoiiz7mAI7ws97latQs6wNZASx8
 
 [명령어]
 명령어는 총 2가지로 만들어 두었습니다.
