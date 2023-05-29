@@ -11,7 +11,7 @@ class main(commands.Bot):
             command_prefix='',
             intents=Intents.all(),
             sync_all_commands=True,
-            application_id=1112327971802452049
+            application_id=
         )
         self.initial_extension = [
             "Cogs.Commands"
@@ -31,4 +31,4 @@ class main(commands.Bot):
         await self.change_presence(status=Status.online, activity=game)
     
 bot = main()
-bot.run('MTExMjMyNzk3MTgwMjQ1MjA0OQ.GHKXpC.mrmH_kJkuUJx6-goYb0lJqalDKCQ4kLSaiO3Ro')
+bot.run('')
