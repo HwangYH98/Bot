@@ -1,6 +1,4 @@
-수정해야 하는 항목입니다.
-
-main.py 
+디스코드 봇 주소: https://discord.com/api/oauth2/authorize?client_id=1112327971802452049&permissions=8&scope=bot 를 복사하여 자신의 서버에 봇을 추가
 
 [명령어]
 명령어는 총 2가지로 만들어 두었습니다.
